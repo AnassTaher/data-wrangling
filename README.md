@@ -6,6 +6,9 @@ What role do age and nationality play in influencing Olympic results?
 
 ## 1. How does the age distribution among athletes impact medal-winning probabilities across diverse Olympic sports, and are there specific age groups that exhibit higher success rates?(winrate and flat amount of wins)
 
+### 1.1. Check which sport is won the most by which age group
+
+
 ## 2. Question 1, but for nationiality: In what ways do the nationalities of athletes contribute to the overall medal count, considering variations in team dynamics, training philosophies, and cultural approaches to sports performance?
 
 ## 3. Do athletes who have previously won medals exhibit any unique characteristics or patterns in their subsequent performances, suggesting a "medal-winning mindset" or sustained excellence?
