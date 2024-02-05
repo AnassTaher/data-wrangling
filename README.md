@@ -1,40 +1,35 @@
-# Main Question
+# Revised Markdown File
 
-What role do age and nationality play in influencing Olympic results?
+## Main Question
 
-# Sub-Questions
+**Exploring the Influence of Age and Nationality on Olympic Success**
 
-## 1. How does the age distribution among athletes impact medal-winning probabilities across diverse Olympic sports, and are there specific age groups that exhibit higher success rates?(winrate and flat amount of wins)
+## Sub-Questions
 
-### 1.1. Which age group wins the most medals across all sports? -- Done
+### Age-Related Analysis
 
-### 1.2. What is the average age of the athletes in each region vs the average age of the athletes who win medals in each region? -- Done
+1. **Age and Olympic Success**
+   - **1.1 Medal Distribution by Age Group**: Identifying the most successful age groups in terms of medal wins across all sports.
+   - **1.2 Average Age of Athletes vs Medalists by Region**: Comparing the average age of all athletes and medal-winning athletes in each region.
+   - **1.3 Age Profile of Top Performers (Gold Medalists) in Each Region**: Examining the average age of top performers in different regions.
+   - **1.4 Dominant Age Groups in Various Sports**: Determining which age groups are most successful in specific sports.
+   - **1.5 Evolution of Athlete Age Over Time**: Analyzing how the average age of athletes has changed over time and exploring potential contributing factors.
 
-### 1.3. How does the average age of top performance(minimum 1 gold medal) in each region compare to each other -- Done
+### Nationality-Related Analysis
 
-### 1.4. Check which sport is won the most by which age group -- Done
+2. **Nationality and Olympic Success**
+   - **2.1 Athlete Representation by Region**: Identifying the regions with the highest athlete representation.
+   - **2.2 Regional Medal Count**: Analyzing which regions win the most medals across all sports.
+   - **2.3 Sports Dominated by Specific Regions**: Investigating which sports are most frequently won by athletes from particular regions.
+   - **2.4 Successful Sports for Each Region and Trends Over Time**: Exploring the most successful sports for each region and how these trends have evolved.
+   - **2.5 Historical Success of Countries in the Olympics**: Examining which countries have been most successful throughout Olympic history.
 
-### 1.5. How has the average age of athletes changed over time, and what factors might have contributed to these trends? -- Done
+### Anomaly Detection
 
-## 2. Question 1, but for nationiality: In what ways do the nationalities of athletes contribute to the overall medal count, considering variations in team dynamics, training philosophies, and cultural approaches to sports performance?
+3. **Identifying Anomalies in Olympic Performance**
+   - **3.1 Characteristics of Repeat Medalists**: Investigating any unique traits or patterns among athletes who consistently win medals.
+   - **3.2 Unconventional Success Stories**: Identifying surprising cases where athletes with atypical physical attributes or from underrepresented nations have outperformed expectations.
 
-### 2.1. From which region do the most athletes come from? -- Done
+## Notes
 
-### 2.2. Which region wins the most medals across all sports? -- Done
-
-### 2.3. Which sport is won the most by which region? -- Done
-
-### 2.4. What are the most successful sports for each region, and how do these trends change over time? -- Done
-
-### 2.5. Which countries are most succesful throughout the years? -- Done
-
-## 3. Anomaly detection: Can we identify any anomalies or surprises in the dataset where athletes with unconventional physical attributes or from less-represented nations outperform expectations in specific sports?
-
-## 3.1. Do athletes who have previously won medals exhibit any unique characteristics or patterns in their subsequent performances, suggesting a "medal-winning mindset" or sustained excellence?
-
-## 3.2. Can we identify any anomalies or surprises in the dataset where athletes with unconventional physical attributes or from less-represented nations outperform expectations in specific sports?
-
-
-# Notes:
-
-- The dataset only contains "Teams" and not "ethnicities" or "nationalities" of the athletes. This means that we can only analyze the region of the athelete's team and not the region of the athlete's origin.
+- The dataset utilizes "Teams" as a proxy for "ethnicities" or "nationalities," meaning analysis is based on the athlete's team region rather than their personal origin.
