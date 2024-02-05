@@ -43,4 +43,7 @@ pd['Age Group'] = pd['Age'].apply(lambda x: 'Under 18' if x < 18 else '18-24' if
 
 
 # print the different values that are possible for 'Medal'
-print(pd['NOC'].unique())
+print(pd.head())
+
+# print null values
+print(pd.isnull().sum())
