@@ -14,23 +14,24 @@ What role do age and nationality play in influencing Olympic results?
 
 ### 1.4. Check which sport is won the most by which age group -- Done
 
+### 1.5. How has the average age of athletes changed over time, and what factors might have contributed to these trends?
+
 ## 2. Question 1, but for nationiality: In what ways do the nationalities of athletes contribute to the overall medal count, considering variations in team dynamics, training philosophies, and cultural approaches to sports performance?
 
 ### 2.1. From which region do the most athletes come from? -- Done
 
 ### 2.2. Which region wins the most medals across all sports? -- Done
 
-### 2.3. From which region do the most athletes come from who win medals?
+### 2.3. Which sport is won the most by which region? -- Done
 
-### 2.4. Which sport is won the most by which region?
+### 2.4. What are the most successful sports for each region, and how do these trends change over time? -- Done
 
-## 3. Do athletes who have previously won medals exhibit any unique characteristics or patterns in their subsequent performances, suggesting a "medal-winning mindset" or sustained excellence?
+## 3. Anomaly detection: Can we identify any anomalies or surprises in the dataset where athletes with unconventional physical attributes or from less-represented nations outperform expectations in specific sports?
 
-## 4. Can we identify any anomalies or surprises in the dataset where athletes with unconventional physical attributes or from less-represented nations outperform expectations in specific sports?
+## 3.1. Do athletes who have previously won medals exhibit any unique characteristics or patterns in their subsequent performances, suggesting a "medal-winning mindset" or sustained excellence?
 
-## 5. How has the average age of athletes changed over time, and what factors might have contributed to these trends?
+## 3.2. Can we identify any anomalies or surprises in the dataset where athletes with unconventional physical attributes or from less-represented nations outperform expectations in specific sports?
 
-## 6. What are the most successful sports for each region, and how do these trends change over time?
 
 # Notes:
 
