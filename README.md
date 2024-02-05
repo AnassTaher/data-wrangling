@@ -14,7 +14,7 @@ What role do age and nationality play in influencing Olympic results?
 
 ### 1.4. Check which sport is won the most by which age group -- Done
 
-### 1.5. How has the average age of athletes changed over time, and what factors might have contributed to these trends?
+### 1.5. How has the average age of athletes changed over time, and what factors might have contributed to these trends? -- Done
 
 ## 2. Question 1, but for nationiality: In what ways do the nationalities of athletes contribute to the overall medal count, considering variations in team dynamics, training philosophies, and cultural approaches to sports performance?
 
