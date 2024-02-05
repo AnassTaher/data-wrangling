@@ -26,6 +26,8 @@ What role do age and nationality play in influencing Olympic results?
 
 ### 2.4. What are the most successful sports for each region, and how do these trends change over time? -- Done
 
+### 2.5. Which countries are most succesful throughout the years? -- Done
+
 ## 3. Anomaly detection: Can we identify any anomalies or surprises in the dataset where athletes with unconventional physical attributes or from less-represented nations outperform expectations in specific sports?
 
 ## 3.1. Do athletes who have previously won medals exhibit any unique characteristics or patterns in their subsequent performances, suggesting a "medal-winning mindset" or sustained excellence?
